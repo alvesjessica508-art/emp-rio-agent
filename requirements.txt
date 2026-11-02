@@ -1,0 +1,4 @@
+openai>=1.40      # cliente da API compatível com OpenAI (OpenAI, Gemini, Groq, Ollama...)
+pypdf>=4.0        # leitura do manual de políticas
+python-dotenv>=1.0
+pytest>=8.0       # testes
